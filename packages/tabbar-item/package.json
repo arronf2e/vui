@@ -1,0 +1,12 @@
+{
+    "name": "vui/tabbar-item",
+    "version": "1.0.0",
+    "description": "tabbar-item component",
+    "main": "./index.js",
+    "author": "arron",
+    "license": "MIT",
+    "devDependencies": {},
+    "dependencies": {}
+  }
+  
+  

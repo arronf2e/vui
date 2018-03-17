@@ -1,0 +1,12 @@
+{
+    "name": "vui/tabbar",
+    "version": "1.0.0",
+    "description": "tabbar component",
+    "main": "./index.js",
+    "author": "arron",
+    "license": "MIT",
+    "devDependencies": {},
+    "dependencies": {}
+  }
+  
+  
